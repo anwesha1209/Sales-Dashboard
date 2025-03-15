@@ -14,4 +14,5 @@ Pivot tables for in-depth analysis
 Conditional formatting for quick insights
 Interactive slicers & filters for data exploration
 
-<img width="1449" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/87578e9e-fb3c-4d77-9ae8-31f15c9b58ba" />
+
+<img width="1413" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/391a580c-f1cc-4987-bf4f-e27f645f2f9b" />
